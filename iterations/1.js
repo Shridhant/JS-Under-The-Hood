@@ -43,7 +43,7 @@
 
 // Print all the elements in an array and also adding them into a new array
 
-// let arr = [3, 6, 9, 12, 15];
+let arr = [2, 4, 6, 8, 10];
 
 // let ar = [];
 
@@ -52,3 +52,25 @@
 //   ar.push(arr[i]);
 // }
 // console.log(ar);
+
+//Given an array of numbers, use a for loop to find the sum of all elements.
+// let a = 0;
+// function b() {
+//   for (let i = 0; i < arr.length; i++) {
+//     a += arr[i];
+//     console.log(a);
+//   }
+//   return a;
+// }
+
+// console.log(b());
+
+//reverse an array and into a new array
+// let a = arr.length;
+// let b = [];
+
+// for (let i = a - 1; i >= 0; i--) {
+//   console.log(arr[i]);
+//   b.push(arr[i]);
+// }
+// console.log(b);
