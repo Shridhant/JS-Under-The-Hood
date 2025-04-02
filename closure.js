@@ -9,4 +9,4 @@ function c() {
   }
   return d;
 }
-console.log(c());
+console.log((c())());
