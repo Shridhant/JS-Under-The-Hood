@@ -1,0 +1,108 @@
+[33mcommit 7d44bf4325ef199a84511adfe10dca6ce31c1263[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Wed Apr 16 23:55:29 2025 +0530
+
+    feat: array remove functions
+
+[33mcommit 45fb125b1bbaa0e09389ce40f691022724d66b52[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Wed Apr 9 21:06:10 2025 +0530
+
+    String problems
+
+[33mcommit e11512caf5ef025cfd5d0f6e1a804a916670b105[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Sat Apr 5 23:33:16 2025 +0530
+
+    duplicate remover usign set
+
+[33mcommit 29bfa8d43574911fcbf2fd1fab07ee41a0a14b7d[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Fri Apr 4 23:59:35 2025 +0530
+
+    sequences
+
+[33mcommit cc729310489905faa28007b5dd7cbc6977ba082e[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Fri Apr 4 23:43:55 2025 +0530
+
+    sum and longest word problems solved!
+
+[33mcommit 68d6324b86a0f8d589467dabb1a0c72355c0a885[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Fri Apr 4 23:20:50 2025 +0530
+
+    New array filter problem solved
+
+[33mcommit ec46fd97a70d6c1805089edfe417e460739e8946[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Wed Apr 2 23:50:42 2025 +0530
+
+    called ief for closure
+
+[33mcommit d068a5ba507fc527bb7850ad59da336603787782[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Wed Apr 2 23:48:27 2025 +0530
+
+    first is reversing in arrays folder
+
+[33mcommit fa11089872096bd7f741ab5eb9d51df76524ff23[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Tue Apr 1 00:00:51 2025 +0530
+
+    new
+
+[33mcommit 54e4fd6f4737f1e85831a58a0a16665d41b18d02[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Mon Mar 24 23:42:54 2025 +0530
+
+    new
+
+[33mcommit 681c551c47c040cf202270412e67f8c0df497c7c[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Mon Mar 24 23:37:34 2025 +0530
+
+    array functions
+
+[33mcommit fd2e0f7df284dc89b9ff24c38b9774ab11ff1ede[m
+Merge: a61dd09 183d711
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Tue Mar 11 22:01:20 2025 +0530
+
+    Merge branch 'main' of https://github.com/Shridhant/JS-Under-The-Hood
+
+[33mcommit a61dd099b901b555b978ef468c711e7bf1c94320[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Tue Mar 11 22:00:59 2025 +0530
+
+    new array practises
+
+[33mcommit dd15b1f7cf808ab189847c61304106bd3b0f1504[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Fri Feb 21 22:05:43 2025 +0530
+
+    more array loops
+
+[33mcommit a6c5713bbe94026b8339b2c654d024d578ba6b7b[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Fri Feb 21 21:36:16 2025 +0530
+
+    just practicing after tiring day of travelling
+
+[33mcommit 183d7112ebb9cb649bada533fd07972a5137ea82[m
+Author: Shridhant <112254369+Shridhant@users.noreply.github.com>
+Date:   Mon Jan 20 18:16:18 2025 +0530
+
+    Create README.md
+
+[33mcommit 4147b4d7f2180eb6cecdfec2ed62c1aa7baf4866[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Mon Jan 20 12:07:09 2025 +0530
+
+    let const var
+
+[33mcommit e9aeaa70a77985616938c480b8435e19bcb25375[m
+Author: Shridhant <shridhantjaiswal@gmail.com>
+Date:   Mon Jan 20 10:50:09 2025 +0530
+
+    Functions and memory allocation!
